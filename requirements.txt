@@ -1,0 +1,12 @@
+streamlit
+scikit-learn
+matplotlib
+shap
+xgboost
+lightgbm
+optuna
+openai==0.28
+pandas
+numpy
+python-dotenv
+seaborn
